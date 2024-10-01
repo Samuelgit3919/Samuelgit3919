@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Habtamu</h1>
 <h3 align="center">A passionate frontend React.js developer from Ethiopia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelgit3919&label=Profile%20views&color=0e75b6&style=flat" alt="samuelgit3919" /> </p>
+
 - 👨‍💻 All of my projects are available at [https://samue-portfolio.netlify.app](https://samue-portfolio.netlify.app)
 
 - 📫 How to reach me **saminew3919@gmail.com**
