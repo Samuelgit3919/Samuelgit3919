@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelgit3919&label=Profile%20views&color=0e75b6&style=flat" alt="samuelgit3919" /> </p>
 
-- 👨‍💻 some of my projects are available at [https://samue-portfolio.netlify.app](https://samue-portfolio.netlify.app)
+- 👨‍💻 some of my projects are available at [https://samue-portfolio.netlify.app]()
 
 - 📫 How to reach me **saminew3919@gmail.com**
 
